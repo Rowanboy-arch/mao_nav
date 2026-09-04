@@ -71,27 +71,6 @@ export const mockData = {
           "icon": "/sitelogo/cursor.sh.ico"
         }
       ]
-    },
-    {
-      "id": "cloud",
-      "name": "云服务",
-      "icon": "☁️",
-      "order": 2,
-      "sites": []
-    },
-    {
-      "id": "dev-tools",
-      "name": "编程",
-      "icon": "🛠️",
-      "order": 1,
-      "sites": []
-    },
-    {
-      "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
-      "order": 4,
-      "sites": []
     }
   ],
   "title": "Rowan导航",
