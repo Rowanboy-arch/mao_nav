@@ -77,59 +77,21 @@ export const mockData = {
       "name": "云服务",
       "icon": "☁️",
       "order": 2,
-      "sites": [
-        {
-          "id": "site-1752644060499",
-          "name": "怕死云",
-          "url": "https://www.pasyun.com/",
-          "description": "ipv6机器",
-          "icon": "/sitelogo/www.pasyun.com.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "dev-tools",
       "name": "编程",
       "icon": "🛠️",
       "order": 1,
-      "sites": [
-        {
-          "id": "android-studio",
-          "name": "Android Studio",
-          "url": "https://developer.android.com/studio",
-          "description": "Android官方开发工具",
-          "icon": "/sitelogo/developer.android.com.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
       "order": 4,
-      "sites": [
-        {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
-        },
-        {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
-        },
-        {
-          "id": "v2ex",
-          "name": "V2EX",
-          "url": "https://www.v2ex.com",
-          "description": "创意工作者社区",
-          "icon": "/sitelogo/www.v2ex.com.ico"
-        }
-      ]
+      "sites": []
     }
   ],
   "title": "Rowan导航",
