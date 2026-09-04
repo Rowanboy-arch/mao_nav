@@ -89,9 +89,9 @@ export const mockData = {
     },
     {
       "id": "dev-tools",
-      "name": "开发工具",
+      "name": "编程",
       "icon": "🛠️",
-      "order": 29,
+      "order": 1,
       "sites": [
         {
           "id": "android-studio",
