@@ -7,20 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1778929068955",
-          "name": "猫图 AI",
-          "url": "https://catsapi.com",
-          "description": "AI 生图网站，Image2 3 分/张,每日有免费额度，",
-          "icon": "https://www.faviconextractor.com/favicon/catsapi.com"
-        },
-        {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
-        },
-        {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
@@ -518,5 +504,6 @@ export const mockData = {
     }
   ],
   "title": "Rowan导航",
-  "search": "google"
+  "search": "google",
+  "icp": ""
 }
