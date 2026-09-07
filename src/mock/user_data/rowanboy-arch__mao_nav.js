@@ -77,7 +77,50 @@ export const mockData = {
       "icon": "🛠️",
       "name": "编程",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1788762638304",
+          "name": "Apifox",
+          "url": "https://apifox.com/",
+          "description": "API 设计、开发、测试一体化协作平台",
+          "icon": "https://cdn.apifox.com/static/logo/favicon.ico"
+        },
+        {
+          "id": "site-1788762752464",
+          "name": "Github",
+          "url": "https://github.com/",
+          "description": "GitHub，开发者、代理和代码汇聚于同一平台",
+          "icon": "https://github.com/fluidicon.png"
+        },
+        {
+          "id": "site-1788762834165",
+          "name": "V2EX",
+          "url": "https://www.v2ex.com/",
+          "description": "V2EX 是一个关于分享和探索的地方",
+          "icon": "https://www.faviconextractor.com/favicon/www.v2ex.com"
+        },
+        {
+          "id": "site-1788762885335",
+          "name": "React",
+          "url": "https://zh-hans.react.dev/",
+          "description": "用于构建 Web 和原生交互界面的库",
+          "icon": "https://zh-hans.react.dev/favicon-32x32.png"
+        },
+        {
+          "id": "site-1788762943412",
+          "name": "Gitee",
+          "url": "https://gitee.com/",
+          "description": "让每一行代码\n都有改变世界的力量",
+          "icon": "https://gitee.com/favicon.ico"
+        },
+        {
+          "id": "site-1788762980092",
+          "name": "CSDN",
+          "url": "https://www.csdn.net/",
+          "description": "专业开发者社区",
+          "icon": "https://g.csdnimg.cn/static/logo/favicon32.ico"
+        }
+      ]
     },
     {
       "id": "category-1788760412350",
