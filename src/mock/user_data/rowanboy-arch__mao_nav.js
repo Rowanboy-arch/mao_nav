@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "电脑常用",
+      "name": "常用",
       "icon": "💥",
       "order": 0,
       "sites": [
@@ -80,38 +80,45 @@ export const mockData = {
       "sites": []
     },
     {
-      "id": "category-1788760367164",
-      "icon": "👥",
-      "name": "网络安全",
+      "id": "category-1788760412350",
+      "icon": "📱",
+      "name": "接码",
       "order": 3,
       "sites": []
     },
     {
-      "id": "category-1788760412350",
-      "icon": "📱",
-      "name": "接码",
+      "id": "category-1788760505288",
+      "icon": "📁",
+      "name": "电脑",
       "order": 4,
+      "sites": []
+    },
+    {
+      "id": "category-1788760367164",
+      "icon": "👥",
+      "name": "网络安全",
+      "order": 5,
       "sites": []
     },
     {
       "id": "category-1788760423850",
       "icon": "🌐",
       "name": "卡网",
-      "order": 5,
+      "order": 6,
       "sites": []
     },
     {
       "id": "category-1788760430912",
       "icon": "🎮",
       "name": "CSGO",
-      "order": 6,
+      "order": 7,
       "sites": []
     },
     {
       "id": "category-1788760441416",
       "icon": "💻",
       "name": "加速器",
-      "order": 7,
+      "order": 8,
       "sites": []
     }
   ],
